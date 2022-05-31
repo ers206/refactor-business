@@ -9,10 +9,10 @@ Refactor Website
 *css
 
 
-##Website
+## Website
 https://github.com/ers206/refactor-business.git
 
-##contribution
+## contribution
 Made with ❤️ by Eric Schweitzer 
 
 &copy; Horiseon 2022
