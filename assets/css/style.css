@@ -5,10 +5,12 @@
     padding: 0;
     margin: 0;
 }
+
 /* body */
 body {
     background-color: #d9dcd6;
 }
+
 /* header */
 header {
     padding: 20px;
@@ -16,11 +18,13 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
+
 /* h1 text */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
+
 /* h2 text */
 header h1 .seo {
     color: #d9dcd6;
@@ -54,9 +58,15 @@ a {
     text-decoration: none;
 }
 
+/* p text */
+p {
+
+    font-size: 16px;
+    color: #ffffff;
+}
+
 /* hero section */
 .hero {
-
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -86,7 +96,6 @@ a {
 }
 
 /* merged classes */
-
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2 {
@@ -100,19 +109,11 @@ a {
     margin-right: 25px;
     size-adjust: auto;
 }
+
 /* image placing */
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-
-
-/* p text */
-p {
-
-    font-size: 16px;
-    color: #ffffff;
 }
 
 
@@ -143,6 +144,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
 /* merged classes */
 .benefit-lead h3,
 .benefit-brand h3,
@@ -151,6 +153,7 @@ p {
     text-align: center;
     color: #ffffff;
 }
+
 /* merged classes */
 .benefit-lead img,
 .benefit-brand img,
@@ -160,11 +163,6 @@ p {
     max-width: 150px;
 }
 
-
-
-
-
-
 /* footer placement, text */
 .footer {
     padding: 30px;
@@ -172,6 +170,7 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
+
 /* font size footer h2 */
 .footer h2 {
     font-size: 20px;

@@ -8,11 +8,12 @@ Refactor Website
 *html
 *css
 
+
 ##Website
 https://github.com/ers206/refactor-business.git
 
 ##contribution
 Made with ❤️ by Eric Schweitzer 
 
-&Horiseon 2022
+&copy Horiseon 2022
 
