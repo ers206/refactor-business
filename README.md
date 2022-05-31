@@ -5,8 +5,8 @@
 Refactor Website
 
 ## Built with
-*html
-*css
+* html
+* css
 
 
 ## Website
