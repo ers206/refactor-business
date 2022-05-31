@@ -2,7 +2,7 @@
 
 changes in html
     changed title
-    changed span line to highlight co name
+    
     changed spacing
     fixed link in search engine optimization
     
