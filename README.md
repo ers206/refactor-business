@@ -4,7 +4,7 @@
 
 Refactor Website
 
-##Built with
+## Built with
 *html
 *css
 
@@ -15,5 +15,5 @@ https://github.com/ers206/refactor-business.git
 ##contribution
 Made with ❤️ by Eric Schweitzer 
 
-&copy Horiseon 2022
+&copy; Horiseon 2022
 
